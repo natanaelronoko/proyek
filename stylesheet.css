@@ -26,14 +26,14 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1587026045/rlvfhzzw8gmcwpjndugk.jpg);
   background-size: cover;
-  color: #FFC312;
+  color: #1B1464;
   text-align: center;
 }
 
 .top-wrapper h1 {
   opacity: 0.7;
   font-size: 45px;
-  font-color:#FFC312;
+  font-color:#1B1464;
   letter-spacing:5px;
   margin-bottom: 10px;
 }
@@ -42,7 +42,7 @@ a {
   opacity: 0.7;
   font-size: normal;
   margin-bottom: 3px;
-  font-color:#FFC312;
+  font-color:#1B1464;
 }
 
 .btn-wrapper {
